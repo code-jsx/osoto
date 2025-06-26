@@ -136,7 +136,7 @@ const Pricing = () => {
             </div>
             <div className="flex items-center space-x-2">
               <div className="w-2 h-2 bg-cyan-400 rounded-full"></div>
-              <span>Regulatory compliance</span>
+              <span>Regulatory in compliance</span>
             </div>
           </div>
         </div>
